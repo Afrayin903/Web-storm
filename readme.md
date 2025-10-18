@@ -1,2 +1,2 @@
 ## Welcome to Webstorm!
--Continue improve webstorm.
+-Continue to improve webstorm.
